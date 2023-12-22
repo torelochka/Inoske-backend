@@ -1,4 +1,4 @@
-# Inoske-backend
+# Inoske-frontend
 
 Необходимый функционал фронта
 
